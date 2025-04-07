@@ -1,6 +1,6 @@
  <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=007BFF&width=435&lines=Hi+I'm+Ayush+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Lover;Let's+Learn+Together+%F0%9F%9A%80"> 
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> -->
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
 
 <img align="right" alt="GIF" height="250px" src="https://camo.githubusercontent.com/a2eccbee43e0a4ad62babc1d19786e81ba8e871a81dab4ee17f31336dcf6272c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966" /> 
 
